@@ -2,6 +2,8 @@
 
 Flood Detection System using the ESP32 microcontroller and an ultrasonic sensor to measure flood water levels. The system integrates with the Blynk platform for real-time monitoring.
 
+![Flood Detection System](https://thumbs.wokwi.com/projects/405366552999666689/thumbnail.jpg?tile&t=1722849413488)
+
 ## Features
 
 - **ESP32 Microcontroller**: Utilizes the powerful ESP32 microcontroller for processing sensor data and Wi-Fi connectivity.
